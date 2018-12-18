@@ -10,8 +10,11 @@ Tested with the Raspberry Pi 2 and Zero W, should supports all models
 **Usage:** create an instance of the 'RaspberryPiGpio' class and:
 
 ConfigureInput - set a pin as input and set the pullup/pulldown mode
+
 ConfigureOuput - set a pin as output
+
 ReadGpio - read the value of an input pin
+
 WriteGpio - write the value of an output pin
 
 
